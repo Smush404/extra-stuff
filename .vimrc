@@ -76,6 +76,7 @@ syntax on
 
 " Add numbers to each line on the left-hand side.
 set number
+set rnu
 
 " Highlight cursor line underneath the cursor horizontally.
 " set cursorline
